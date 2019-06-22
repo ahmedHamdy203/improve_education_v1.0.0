@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="CGPA <= 2.58\nmse = 0.04\nsamples = 158\nvalue = 1.12", fillcolor="#eda572"] ;
+1 [label="Java 2 <= 0.5\nmse = 0.04\nsamples = 31\nvalue = 0.86", fillcolor="#f8ddca"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="CGPA <= 2.36\nmse = 0.02\nsamples = 27\nvalue = 0.81", fillcolor="#fae7da"] ;
+1 -> 2 ;
+3 [label="mse = 0.01\nsamples = 15\nvalue = 0.7", fillcolor="#ffffff"] ;
+2 -> 3 ;
+4 [label="mse = 0.0\nsamples = 12\nvalue = 0.95", fillcolor="#f4caac"] ;
+2 -> 4 ;
+5 [label="InvolvmentLevel <= 0.5\nmse = 0.02\nsamples = 4\nvalue = 1.18", fillcolor="#ea995f"] ;
+1 -> 5 ;
+6 [label="mse = 0.0\nsamples = 1\nvalue = 0.96", fillcolor="#f4c8a9"] ;
+5 -> 6 ;
+7 [label="mse = 0.0\nsamples = 3\nvalue = 1.25", fillcolor="#e78946"] ;
+5 -> 7 ;
+8 [label="CGPA <= 3.11\nmse = 0.02\nsamples = 127\nvalue = 1.18", fillcolor="#ea985d"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="C Programming <= 0.5\nmse = 0.01\nsamples = 68\nvalue = 1.11", fillcolor="#eda876"] ;
+8 -> 9 ;
+10 [label="mse = 0.01\nsamples = 43\nvalue = 1.15", fillcolor="#eba069"] ;
+9 -> 10 ;
+11 [label="mse = 0.01\nsamples = 25\nvalue = 1.05", fillcolor="#f0b58b"] ;
+9 -> 11 ;
+12 [label="C Programming <= 0.5\nmse = 0.01\nsamples = 59\nvalue = 1.27", fillcolor="#e68640"] ;
+8 -> 12 ;
+13 [label="mse = 0.0\nsamples = 40\nvalue = 1.29", fillcolor="#e58139"] ;
+12 -> 13 ;
+14 [label="mse = 0.0\nsamples = 19\nvalue = 1.22", fillcolor="#e88f4f"] ;
+12 -> 14 ;
+}

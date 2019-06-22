@@ -1,0 +1,227 @@
+﻿Timestamp,Gender,Level,Department,Courses,GPA,CGPA,InvolvmentLevel,FarHome,HasAJob,FinantialLevel,GroupsResources,FrequentAbcense,ExtraActivities,HealthProblems,ParentsHaveDegree,EnglishLevel,StudentGuardian
+08/04/2019 19:21:29,Female,4,CS,"C Programming, TOC, HCI, Data Structures, Web, Java 1, Java 2, IR, Algorithms, Game Design, Database, Data Mining, Operational research",2.5,2.8,بحضر نص نص,لا,ايوه,عالي,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:22:37,Female,4,CS,"Java 1, Java 2, IR, Database, Regression",3.6,3.1,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:25:04,Female,4,CS,"TOC, Data Structures, IR, Algorithms, OS, Microprocessors",2.6,2.77,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,بابا
+08/04/2019 19:27:29,Female,4,CS,"C Programming, TOC, Data Structures, IR, Algorithms, OS, Microprocessors",3.69,3.59,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,حد تاني
+08/04/2019 19:30:35,Female,4,CS,"Data Structures, Algorithms, Game Design, Microprocessors",4,3.35,ملتزم,ايوه,لا,عالي,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,بابا
+08/04/2019 19:36:25,Male,4,CS,"C Programming, Data Structures, Web, Java 2, IR, OS",2.93,3,مش بحضر,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,بابا
+08/04/2019 19:37:03,Male,4,CS,"Data Structures, Web, Java 1, Java 2, Algorithms, Database",3,2.6,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,حد تاني
+08/04/2019 19:37:12,Male,4,CS,"TOC, Data Structures, IR, Algorithms, Regression",3.54,3.33,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:37:35,Male,4,CS,"TOC, Data Structures, IR, Algorithms",2.7,3,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:40:09,Male,4,CS,"C Programming, Data Structures, IR, Algorithms, OS, Database",3.1,2.78,بحضر نص نص,لا,لا,متوسط,مش متابع والله,اه,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:40:17,Male,4,CS,"TOC, Data Structures, IR, Algorithms, Graphics, Game Design",3.09,2.86,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:40:34,Female,4,CS,"C Programming, Data Structures, IR, AI, Machine Learning, Data Mining",3.42,3.45,ملتزم,ايوه,لا,عالي,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:41:39,Male,4,CS,"Java 2, IR, Algorithms, Machine Learning, Regression, Data Mining",3.8,3,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:43:20,Male,4,CS,"C Programming, TOC, Data Structures, Java 1, Algorithms, Microprocessors",3.04,2.85,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,بابا
+08/04/2019 19:44:28,Male,4,Stat,"Data Structures, Web, Java 1, Database, R, Regression",3.3,2.83,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,الاتنين
+08/04/2019 19:44:30,Female,4,CS,"Web, IR, Algorithms, Game Design, Testing, Operational research",3.5,2.75,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,لا,متوسط,الاتنين
+08/04/2019 19:45:49,Female,4,CS,"TOC, IR, Algorithms, Graphics, Microprocessors, Testing",3.85,3.29,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:47:31,Female,4,CS,"TOC, Data Structures, Java 1, IR, Database, Microprocessors",3.2,3.5,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:48:04,Male,4,CS,"C Programming, Data Structures, Web, Java 2, Graphics, Database",3.33,3.13,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,الاتنين
+08/04/2019 19:49:02,Female,3,CS,"TOC, HCI, Web, IR, Graphics, Testing",3,3.1,ملتزم,لا,لا,متوسط,مش متابع والله,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:51:21,Male,3,CS,"Web, IR, Database",3.3,3.1,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:51:21,Female,4,CS,"HCI, Java 2, IR, OS, Database, Microprocessors",4,3.51,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:51:29,Male,3,CS,Web,2.1,2.3,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,لا,متوسط,الاتنين
+08/04/2019 19:51:29,Male,4,Stat,"C Programming, Data Structures, Algorithms, Game Design, Database",3.15,2.8,بحضر نص نص,ايوه,ايوه,متوسط,مش متابع والله,اه,اه,لا,اه,متوسط,بابا
+08/04/2019 19:51:32,Female,3,CS,"TOC, Data Structures, Web, IR, Graphics, Game Design, Operational research",3.71,3.64,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+08/04/2019 19:53:23,Female,4,CS,"Graphics, Game Design",3.34,3.33,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:55:02,Male,4,Stat,"C Programming, TOC, Web, Data Mining",2.5,2.5,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:55:16,Male,3,Stat,"Java 2, Algorithms, Database, Stat101, Data Mining",3,2.9,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:56:09,Male,4,CS,"C Programming, HCI, Data Structures, Web, Java 1, Java 2, IR, OS, Graphics, Game Design, Database",2.6,2.4,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,لغتي التانية يا جدععع,حد تاني
+08/04/2019 19:56:40,Female,4,CS,"TOC, Data Structures, Java 1, Java 2, IR, Algorithms, OS, Microprocessors, Digital Libraries, Testing, Machine Learning",3.9,3.5,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,الاتنين
+08/04/2019 19:57:35,Male,3,CS,"TOC, Data Structures, IR, Algorithms, Database",3.56,3.51,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:59:50,Male,3,CS,"C Programming, Data Structures, Web, Java 1, Java 2, OS",2,3,بحضر نص نص,ايوه,ايوه,ضعيف,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 20:00:48,Female,4,CS,"TOC, Java 2, Algorithms, AI, Game Design, Database, Machine Learning",3.6,3.4,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+08/04/2019 20:02:36,Male,3,CS,"C Programming, TOC, Data Structures, IR, Algorithms, OS, Graphics, Database",3.2,3.33,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 20:03:25,Male,3,CS,"C Programming, Data Structures, Web, Java 1, IR, Database",2.3,2.1,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,متوسط,حد تاني
+08/04/2019 20:03:50,Female,4,Stat,"C Programming, Java 1, AI, Machine Learning, Data Mining",2.59,2.46,مش بحضر,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,حد تاني
+08/04/2019 20:04:02,Female,2,CS,"C Programming, HCI, Data Structures",3.7,3.53,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,اه,اه,متوسط,الاتنين
+08/04/2019 20:04:23,Male,4,Stat,"C Programming, Data Structures, Java 1, Algorithms, R, Data Mining",2.5,2.5,بحضر نص نص,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+08/04/2019 20:05:40,Male,4,CS,"TOC, Data Structures, Java 2, IR, Algorithms, OS, Stat101, Stat201, Operational research",3.32,3.44,ملتزم,ايوه,ايوه,عالي,اه، باخد منها محاضرات أحيانًا,لا,اه,اه,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:06:53,Female,4,Stat,"TOC, Graphics, Game Design, Database, Operational research",2.5,2.5,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,الاتنين
+08/04/2019 20:07:04,Male,4,CS,"HCI, Web, IR, Game Design, Data Mining",2.22,2.25,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,بابا
+08/04/2019 20:07:31,Female,1,Math,"C Programming, TOC, HCI, Data Structures, Web, Java 1, Java 2, IR, Algorithms, AI, OS, Graphics, Game Design, Database, Microprocessors, Digital Libraries, Testing, Machine Learning, Stat101, R, Regression, Stat201, Data Mining, Operational research",3.52,2.1,مش بحضر,لا,ايوه,ضعيف,مش متابع والله,لا,لا,اه,لا,ضعيف,حد تاني
+08/04/2019 20:09:25,Female,3,CS,"C Programming, TOC, Data Structures, Java 2",2.9,3.3,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,الاتنين
+08/04/2019 20:10:44,Female,4,CS,"TOC, Data Structures, IR, Algorithms, Graphics, Database, Microprocessors",3.86,3.5,ملتزم,لا,لا,متوسط,مش متابع والله,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 20:12:10,Male,4,CS,"C Programming, Data Structures, Algorithms, OS, Database",3,2.85,ملتزم,ايوه,ايوه,عالي,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:13:17,Female,4,CS,"HCI, Web, IR, Game Design, Digital Libraries, Operational research",3.76,2.93,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,الاتنين
+08/04/2019 20:13:37,Female,4,CS,"TOC, Web, IR, Graphics, Game Design, Operational research",3.14,2.97,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+08/04/2019 20:18:38,Female,3,CS,"C Programming, Data Structures, Java 1, Java 2, Game Design, Operational research",3.21,3.2,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,بابا
+08/04/2019 20:18:39,Male,3,CS,"Data Structures, Algorithms, OS, Microprocessors",2.95,3,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,لا,لغتي التانية يا جدععع,حد تاني
+08/04/2019 20:22:02,Male,3,Stat,"C Programming, Data Structures, R, Stat201, Data Mining",2.1,2.32,بحضر نص نص,لا,لا,ضعيف,مش متابع والله,اه,اه,لا,لا,متوسط,الاتنين
+08/04/2019 20:27:19,Male,4,Stat,"TOC, Data Structures, Database, R, Regression, Data Mining, Operational research",3.67,3.02,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,ماما
+08/04/2019 20:31:22,Male,3,CS,"TOC, HCI, Java 1, IR, Graphics, Microprocessors",2.59,2.57,بحضر نص نص,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:32:58,Female,3,CS,"TOC, Data Structures, IR, Algorithms, Graphics, Game Design",3.67,3.64,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:33:18,Male,2,Stat,"Web, Algorithms",1.7,2.3,بحضر نص نص,لا,لا,متوسط,مش متابع والله,اه,لا,لا,لا,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:34:49,Male,4,Stat,"C Programming, Data Structures, R, Data Mining",2.15,2.08,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 20:35:07,Female,4,CS,"TOC, HCI, Algorithms, OS, Graphics, Microprocessors",3.76,3.48,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 20:53:15,Male,2,CS,"Data Structures, Java 1, Java 2, Database",3.8,3.6,ملتزم,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,ضعيف,الاتنين
+08/04/2019 20:58:14,Female,4,CS,"HCI, Data Structures, Web, Java 1, Java 2, OS, Database, R, Data Mining",3.26,2.6473,ملتزم,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:59:16,Male,3,CS,"Data Structures, Java 2, Algorithms, Database",3.8,3.36,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,الاتنين
+08/04/2019 21:02:43,Male,3,CS,"TOC, Java 1, IR, Database, Microprocessors, Data Mining",3.39,3.2,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 21:10:16,Male,2,CS,"C Programming, Data Structures, Java 1, Java 2",2.4,2.9,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 21:10:53,Female,3,Stat,"HCI, Java 1, Java 2, R, Data Mining",3.6,2.76,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 21:12:41,Male,3,Math,"C Programming, Data Structures, Graphics",2.1,2.33,ملتزم,ايوه,ايوه,متوسط,مش متابع والله,لا,لا,لا,لا,لغتي التانية يا جدععع,ماما
+08/04/2019 21:17:22,Female,4,CS,"C Programming, TOC, Data Structures, Graphics, Microprocessors",3.14,3.17,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,بابا
+08/04/2019 21:26:40,Female,4,CS,"TOC, Web, IR, Graphics, Microprocessors",3.6,3.22,ملتزم,ايوه,لا,متوسط,مش متابع والله,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 21:37:50,Male,4,CS,"TOC, Java 2, IR, R",3.3,3.1,بحضر نص نص,ايوه,لا,عالي,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,متوسط,الاتنين
+08/04/2019 21:42:55,Female,3,CS,"TOC, Java 1, IR, Graphics",3.6,3.42,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 21:52:32,Female,4,CS,"HCI, Java 1, Algorithms, Graphics, Microprocessors, Operational research",3.8,3.12,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 22:08:49,Male,4,CS,"Data Structures, IR, Algorithms, Data Mining",2.5,3,ملتزم,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+08/04/2019 22:28:32,Female,4,CS,"Data Structures, AI, Graphics, Microprocessors, Machine Learning, Operational research",3.85,3.25,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,لا,متوسط,الاتنين
+08/04/2019 22:47:07,Male,4,CS,"Data Structures, Web, Java 1, Java 2",3.56,3.3,مش بحضر,لا,ايوه,عالي,مش متابع والله,اه,لا,لا,اه,لغتي التانية يا جدععع,حد تاني
+08/04/2019 23:02:21,Male,4,CS,"Data Structures, Microprocessors, Data Mining, Operational research",3.9,3.15,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,بابا
+08/04/2019 23:39:06,Male,3,CS,"Data Structures, IR, Algorithms, Database",3.4,2.88,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,ضعيف,الاتنين
+09/04/2019 00:09:56,Male,4,Math,"TOC, IR, AI, Stat101, Stat201, Operational research",4,3.84,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,بابا
+09/04/2019 01:00:37,Male,4,CS,"C Programming, TOC, HCI, Data Structures, Web, Java 1, Java 2, IR, Algorithms, AI, OS, Graphics, Game Design, Database, Microprocessors, Machine Learning, R, Regression, Data Mining",3.7,3.2,ملتزم,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,لغتي التانية يا جدععع,بابا
+09/04/2019 01:04:00,Male,2,Stat,"C Programming, Java 1, Java 2, Graphics",2.73,2.86,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,ضعيف,الاتنين
+09/04/2019 02:09:18,Female,4,Stat,"TOC, Data Structures, IR, Algorithms, Database, Data Mining",2.9,2.6,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+09/04/2019 07:21:46,Female,4,Stat,"Web, Graphics, R, Regression, Data Mining",2.4,2.5,ملتزم,ايوه,لا,متوسط,مش متابع والله,اه,لا,لا,لا,متوسط,الاتنين
+09/04/2019 10:44:28,Female,4,CS,"TOC, Web, Java 1, AI",2.9,2.5,بحضر نص نص,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,ماما
+09/04/2019 12:14:09,Female,3,CS,"HCI, Web, AI, Game Design, Testing",1.87,1.95,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,متوسط,الاتنين
+09/04/2019 13:49:45,Male,4,CS,"C Programming, TOC, Data Structures, Algorithms, Microprocessors, R",2.87,3.1,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 15:19:01,Male,4,Math,"TOC, Web, AI",3,2.91,ملتزم,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,حد تاني
+09/04/2019 15:34:22,Female,3,Stat,"TOC, R, Regression, Data Mining",2.81,2.38,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,اه,اه,متوسط,بابا
+09/04/2019 15:46:42,Male,4,CS,"C Programming, HCI, Algorithms, Game Design, Digital Libraries",3,2.7,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,اه,لا,لغتي التانية يا جدععع,بابا
+09/04/2019 17:53:22,Female,3,CS,"C Programming, TOC, Data Structures, IR, Graphics, Game Design, Database",3.2,3.4,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 17:57:59,Female,4,Stat,"Data Structures, AI, OS, Database, R, Regression, Data Mining, Operational research",2.8,2.6,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,لا,لغتي التانية يا جدععع,حد تاني
+09/04/2019 19:01:21,Male,4,Stat,"HCI, AI, Game Design, R, Data Mining",1.9,1.84,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,متوسط,الاتنين
+09/04/2019 22:01:29,Male,3,CS,"TOC, Web, Java 1, Java 2, OS, Database",3.5,3.6,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 22:08:22,Female,4,CS,Machine Learning,3.44,2.88,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,اه,اه,متوسط,الاتنين
+09/04/2019 22:08:28,Male,3,Stat,"TOC, Data Structures, IR, Algorithms, Database, Data Mining",2.8,2.5,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,لغتي التانية يا جدععع,ماما
+09/04/2019 22:08:32,Female,3,Stat,"TOC, IR, Algorithms, Database, Data Mining, Operational research",2.8,2.88,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+09/04/2019 22:12:22,Male,2,CS,"C Programming, Data Structures, Java 1, Java 2, Graphics, Database",3,3,ملتزم,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+09/04/2019 22:17:50,Female,4,CS,"TOC, Data Structures, Java 1, Java 2, IR, Algorithms, OS, Graphics, Microprocessors, Regression",2.92,2.96,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,اه,لا,ضعيف,الاتنين
+09/04/2019 22:26:50,Female,3,CS,"TOC, IR, OS, Graphics",3.1,3.05,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 22:28:41,Male,2,CS,"HCI, Data Structures, Graphics, Machine Learning",3.48,3.06,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 22:45:07,Female,3,CS,"TOC, Java 1, IR, Algorithms, AI",3.01,3.1,بحضر نص نص,لا,لا,متوسط,مش متابع والله,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 23:00:23,Male,3,CS,"C Programming, TOC, Data Structures, Web, Java 2, Game Design",3.71,3.53,ملتزم,ايوه,لا,ضعيف,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,لا,متوسط,الاتنين
+09/04/2019 23:04:47,Male,2,CS,"C Programming, TOC, Web, Java 1, Java 2, Graphics",3.02,3.03,ملتزم,ايوه,لا,متوسط,مش متابع والله,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+09/04/2019 23:15:21,Female,3,CS,"TOC, HCI, Data Structures, Java 1, IR, Algorithms, OS, Graphics, Testing",3.5,3.39,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,ضعيف,الاتنين
+09/04/2019 23:19:44,Male,3,CS,"Data Structures, Java 2, IR, Algorithms, Database, Machine Learning",3.33,3.22,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 23:57:50,Male,3,CS,"C Programming, Data Structures, Web, Java 1, Java 2, Game Design",3.45,2.45,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,الاتنين
+10/04/2019 01:36:17,Male,4,CS,"C Programming, Data Structures, Java 2, IR, Algorithms, Microprocessors, Regression",3.44,3.55,ملتزم,لا,لا,متوسط,مش متابع والله,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+10/04/2019 08:22:22,Female,4,CS,"C Programming, TOC, Data Structures, Database, Microprocessors, Testing",3.6,3.6,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,ماما
+10/04/2019 12:36:15,Female,3,CS,"TOC, Web, IR, Algorithms, Graphics, Database",3.5,3.33,ملتزم,لا,لا,متوسط,مش متابع والله,لا,لا,لا,اه,متوسط,ماما
+10/04/2019 13:18:43,Female,4,CS,"TOC, Data Structures, Algorithms, Microprocessors",3.57,3.03,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,لا,متوسط,الاتنين
+10/04/2019 15:05:33,Male,2,CS,"C Programming, Data Structures, IR, Machine Learning, Regression, Data Mining",2.75,2.9,بحضر نص نص,ايوه,لا,ضعيف,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,ماما
+11/04/2019 09:22:11,Female,2,Math,"C Programming, Data Structures, Java 1",2,1.9,ملتزم,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,ضعيف,الاتنين
+11/04/2019 17:50:35,Male,3,Stat,"Data Structures, Java 1, Java 2, AI, Graphics, Data Mining, Operational research",2.4,2.04,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+12/04/2019 07:12:19,Female,4,CS,"TOC, Data Structures, Algorithms, OS, Microprocessors",3,3.5,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,ماما
+12/04/2019 10:28:28,Female,3,CS,"C Programming, TOC, HCI, Data Structures, Java 1, Java 2, IR, Algorithms, AI, OS, Graphics, Game Design, Database, Stat101, Stat201, Operational research",3.44,2.98,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+12/04/2019 21:38:59,Male,4,CS,"AI, Game Design, Machine Learning, R, Data Mining",3.1,2.83,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,بابا
+15/04/2019 14:50:02,Female,3,CS,"C Programming, Data Structures, Java 1, Game Design",2.7,2.8,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+18/04/2019 06:26:00,Female,4,CS,"TOC, HCI, Data Structures, Web, Java 1, Java 2, IR, Algorithms, AI, OS, Graphics, Game Design, Database, R, Regression, Data Mining, Operational research",3.4,2.88,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,الاتنين
+08/04/2019 19:21:29,Female,4,CS,"C Programming, TOC, HCI, Data Structures, Web, Java 1, Java 2, IR, Algorithms, Game Design, Database, Data Mining, Operational research",2.5,2.8,بحضر نص نص,لا,ايوه,عالي,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:22:37,Female,4,CS,"Java 1, Java 2, IR, Database, Regression",3.6,3.1,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:25:04,Female,4,CS,"TOC, Data Structures, IR, Algorithms, OS, Microprocessors",2.6,2.77,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,بابا
+08/04/2019 19:27:29,Female,4,CS,"C Programming, TOC, Data Structures, IR, Algorithms, OS, Microprocessors",3.69,3.59,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,حد تاني
+08/04/2019 19:30:35,Female,4,CS,"Data Structures, Algorithms, Game Design, Microprocessors",4,3.35,ملتزم,ايوه,لا,عالي,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,بابا
+08/04/2019 19:36:25,Male,4,CS,"C Programming, Data Structures, Web, Java 2, IR, OS",2.93,3,مش بحضر,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,بابا
+08/04/2019 19:37:03,Male,4,CS,"Data Structures, Web, Java 1, Java 2, Algorithms, Database",3,2.6,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,حد تاني
+08/04/2019 19:37:12,Male,4,CS,"TOC, Data Structures, IR, Algorithms, Regression",3.54,3.33,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:37:35,Male,4,CS,"TOC, Data Structures, IR, Algorithms",2.7,3,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:40:09,Male,4,CS,"C Programming, Data Structures, IR, Algorithms, OS, Database",3.1,2.78,بحضر نص نص,لا,لا,متوسط,مش متابع والله,اه,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:40:17,Male,4,CS,"TOC, Data Structures, IR, Algorithms, Graphics, Game Design",3.09,2.86,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:40:34,Female,4,CS,"C Programming, Data Structures, IR, AI, Machine Learning, Data Mining",3.42,3.45,ملتزم,ايوه,لا,عالي,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:41:39,Male,4,CS,"Java 2, IR, Algorithms, Machine Learning, Regression, Data Mining",3.8,3,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:43:20,Male,4,CS,"C Programming, TOC, Data Structures, Java 1, Algorithms, Microprocessors",3.04,2.85,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,بابا
+08/04/2019 19:44:28,Male,4,Stat,"Data Structures, Web, Java 1, Database, R, Regression",3.3,2.83,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,الاتنين
+08/04/2019 19:44:30,Female,4,CS,"Web, IR, Algorithms, Game Design, Testing, Operational research",3.5,2.75,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,لا,متوسط,الاتنين
+08/04/2019 19:45:49,Female,4,CS,"TOC, IR, Algorithms, Graphics, Microprocessors, Testing",3.85,3.29,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:47:31,Female,4,CS,"TOC, Data Structures, Java 1, IR, Database, Microprocessors",3.2,3.5,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:48:04,Male,4,CS,"C Programming, Data Structures, Web, Java 2, Graphics, Database",3.33,3.13,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,الاتنين
+08/04/2019 19:49:02,Female,3,CS,"TOC, HCI, Web, IR, Graphics, Testing",3,3.1,ملتزم,لا,لا,متوسط,مش متابع والله,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:51:21,Male,3,CS,"Web, IR, Database",3.3,3.1,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:51:21,Female,4,CS,"HCI, Java 2, IR, OS, Database, Microprocessors",4,3.51,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:51:29,Male,3,CS,Web,2.1,2.3,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,لا,متوسط,الاتنين
+08/04/2019 19:51:29,Male,4,Stat,"C Programming, Data Structures, Algorithms, Game Design, Database",3.15,2.8,بحضر نص نص,ايوه,ايوه,متوسط,مش متابع والله,اه,اه,لا,اه,متوسط,بابا
+08/04/2019 19:51:32,Female,3,CS,"TOC, Data Structures, Web, IR, Graphics, Game Design, Operational research",3.71,3.64,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+08/04/2019 19:53:23,Female,4,CS,"Graphics, Game Design",3.34,3.33,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:55:02,Male,4,Stat,"C Programming, TOC, Web, Data Mining",2.5,2.5,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 19:55:16,Male,3,Stat,"Java 2, Algorithms, Database, Stat101, Data Mining",3,2.9,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:56:09,Male,4,CS,"C Programming, HCI, Data Structures, Web, Java 1, Java 2, IR, OS, Graphics, Game Design, Database",2.6,2.4,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,لغتي التانية يا جدععع,حد تاني
+08/04/2019 19:56:40,Female,4,CS,"TOC, Data Structures, Java 1, Java 2, IR, Algorithms, OS, Microprocessors, Digital Libraries, Testing, Machine Learning",3.9,3.5,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,الاتنين
+08/04/2019 19:57:35,Male,3,CS,"TOC, Data Structures, IR, Algorithms, Database",3.56,3.51,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 19:59:50,Male,3,CS,"C Programming, Data Structures, Web, Java 1, Java 2, OS",2,3,بحضر نص نص,ايوه,ايوه,ضعيف,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 20:00:48,Female,4,CS,"TOC, Java 2, Algorithms, AI, Game Design, Database, Machine Learning",3.6,3.4,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+08/04/2019 20:02:36,Male,3,CS,"C Programming, TOC, Data Structures, IR, Algorithms, OS, Graphics, Database",3.2,3.33,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 20:03:25,Male,3,CS,"C Programming, Data Structures, Web, Java 1, IR, Database",2.3,2.1,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,متوسط,حد تاني
+08/04/2019 20:03:50,Female,4,Stat,"C Programming, Java 1, AI, Machine Learning, Data Mining",2.59,2.46,مش بحضر,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,حد تاني
+08/04/2019 20:04:02,Female,2,CS,"C Programming, HCI, Data Structures",3.7,3.53,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,اه,اه,متوسط,الاتنين
+08/04/2019 20:04:23,Male,4,Stat,"C Programming, Data Structures, Java 1, Algorithms, R, Data Mining",2.5,2.5,بحضر نص نص,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+08/04/2019 20:05:40,Male,4,CS,"TOC, Data Structures, Java 2, IR, Algorithms, OS, Stat101, Stat201, Operational research",3.32,3.44,ملتزم,ايوه,ايوه,عالي,اه، باخد منها محاضرات أحيانًا,لا,اه,اه,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:06:53,Female,4,Stat,"TOC, Graphics, Game Design, Database, Operational research",2.5,2.5,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,الاتنين
+08/04/2019 20:07:04,Male,4,CS,"HCI, Web, IR, Game Design, Data Mining",2.22,2.25,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,بابا
+08/04/2019 20:07:31,Female,1,Math,"C Programming, TOC, HCI, Data Structures, Web, Java 1, Java 2, IR, Algorithms, AI, OS, Graphics, Game Design, Database, Microprocessors, Digital Libraries, Testing, Machine Learning, Stat101, R, Regression, Stat201, Data Mining, Operational research",3.52,2.1,مش بحضر,لا,ايوه,ضعيف,مش متابع والله,لا,لا,اه,لا,ضعيف,حد تاني
+08/04/2019 20:09:25,Female,3,CS,"C Programming, TOC, Data Structures, Java 2",2.9,3.3,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,الاتنين
+08/04/2019 20:10:44,Female,4,CS,"TOC, Data Structures, IR, Algorithms, Graphics, Database, Microprocessors",3.86,3.5,ملتزم,لا,لا,متوسط,مش متابع والله,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 20:12:10,Male,4,CS,"C Programming, Data Structures, Algorithms, OS, Database",3,2.85,ملتزم,ايوه,ايوه,عالي,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:13:17,Female,4,CS,"HCI, Web, IR, Game Design, Digital Libraries, Operational research",3.76,2.93,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,الاتنين
+08/04/2019 20:13:37,Female,4,CS,"TOC, Web, IR, Graphics, Game Design, Operational research",3.14,2.97,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+08/04/2019 20:18:38,Female,3,CS,"C Programming, Data Structures, Java 1, Java 2, Game Design, Operational research",3.21,3.2,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,بابا
+08/04/2019 20:18:39,Male,3,CS,"Data Structures, Algorithms, OS, Microprocessors",2.95,3,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,لا,لغتي التانية يا جدععع,حد تاني
+08/04/2019 20:22:02,Male,3,Stat,"C Programming, Data Structures, R, Stat201, Data Mining",2.1,2.32,بحضر نص نص,لا,لا,ضعيف,مش متابع والله,اه,اه,لا,لا,متوسط,الاتنين
+08/04/2019 20:27:19,Male,4,Stat,"TOC, Data Structures, Database, R, Regression, Data Mining, Operational research",3.67,3.02,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,ماما
+08/04/2019 20:31:22,Male,3,CS,"TOC, HCI, Java 1, IR, Graphics, Microprocessors",2.59,2.57,بحضر نص نص,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:32:58,Female,3,CS,"TOC, Data Structures, IR, Algorithms, Graphics, Game Design",3.67,3.64,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:33:18,Male,2,Stat,"Web, Algorithms",1.7,2.3,بحضر نص نص,لا,لا,متوسط,مش متابع والله,اه,لا,لا,لا,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:34:49,Male,4,Stat,"C Programming, Data Structures, R, Data Mining",2.15,2.08,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 20:35:07,Female,4,CS,"TOC, HCI, Algorithms, OS, Graphics, Microprocessors",3.76,3.48,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 20:53:15,Male,2,CS,"Data Structures, Java 1, Java 2, Database",3.8,3.6,ملتزم,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,ضعيف,الاتنين
+08/04/2019 20:58:14,Female,4,CS,"HCI, Data Structures, Web, Java 1, Java 2, OS, Database, R, Data Mining",3.26,2.6473,ملتزم,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 20:59:16,Male,3,CS,"Data Structures, Java 2, Algorithms, Database",3.8,3.36,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,الاتنين
+08/04/2019 21:02:43,Male,3,CS,"TOC, Java 1, IR, Database, Microprocessors, Data Mining",3.39,3.2,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 21:10:16,Male,2,CS,"C Programming, Data Structures, Java 1, Java 2",2.4,2.9,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 21:10:53,Female,3,Stat,"HCI, Java 1, Java 2, R, Data Mining",3.6,2.76,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 21:12:41,Male,3,Math,"C Programming, Data Structures, Graphics",2.1,2.33,ملتزم,ايوه,ايوه,متوسط,مش متابع والله,لا,لا,لا,لا,لغتي التانية يا جدععع,ماما
+08/04/2019 21:17:22,Female,4,CS,"C Programming, TOC, Data Structures, Graphics, Microprocessors",3.14,3.17,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,بابا
+08/04/2019 21:26:40,Female,4,CS,"TOC, Web, IR, Graphics, Microprocessors",3.6,3.22,ملتزم,ايوه,لا,متوسط,مش متابع والله,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+08/04/2019 21:37:50,Male,4,CS,"TOC, Java 2, IR, R",3.3,3.1,بحضر نص نص,ايوه,لا,عالي,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,متوسط,الاتنين
+08/04/2019 21:42:55,Female,3,CS,"TOC, Java 1, IR, Graphics",3.6,3.42,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 21:52:32,Female,4,CS,"HCI, Java 1, Algorithms, Graphics, Microprocessors, Operational research",3.8,3.12,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+08/04/2019 22:08:49,Male,4,CS,"Data Structures, IR, Algorithms, Data Mining",2.5,3,ملتزم,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+08/04/2019 22:28:32,Female,4,CS,"Data Structures, AI, Graphics, Microprocessors, Machine Learning, Operational research",3.85,3.25,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,لا,متوسط,الاتنين
+08/04/2019 22:47:07,Male,4,CS,"Data Structures, Web, Java 1, Java 2",3.56,3.3,مش بحضر,لا,ايوه,عالي,مش متابع والله,اه,لا,لا,اه,لغتي التانية يا جدععع,حد تاني
+08/04/2019 23:02:21,Male,4,CS,"Data Structures, Microprocessors, Data Mining, Operational research",3.9,3.15,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,بابا
+08/04/2019 23:39:06,Male,3,CS,"Data Structures, IR, Algorithms, Database",3.4,2.88,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,ضعيف,الاتنين
+09/04/2019 00:09:56,Male,4,Math,"TOC, IR, AI, Stat101, Stat201, Operational research",4,3.84,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,بابا
+09/04/2019 01:00:37,Male,4,CS,"C Programming, TOC, HCI, Data Structures, Web, Java 1, Java 2, IR, Algorithms, AI, OS, Graphics, Game Design, Database, Microprocessors, Machine Learning, R, Regression, Data Mining",3.7,3.2,ملتزم,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,لغتي التانية يا جدععع,بابا
+09/04/2019 01:04:00,Male,2,Stat,"C Programming, Java 1, Java 2, Graphics",2.73,2.86,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,ضعيف,الاتنين
+09/04/2019 02:09:18,Female,4,Stat,"TOC, Data Structures, IR, Algorithms, Database, Data Mining",2.9,2.6,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+09/04/2019 07:21:46,Female,4,Stat,"Web, Graphics, R, Regression, Data Mining",2.4,2.5,ملتزم,ايوه,لا,متوسط,مش متابع والله,اه,لا,لا,لا,متوسط,الاتنين
+09/04/2019 10:44:28,Female,4,CS,"TOC, Web, Java 1, AI",2.9,2.5,بحضر نص نص,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,ماما
+09/04/2019 12:14:09,Female,3,CS,"HCI, Web, AI, Game Design, Testing",1.87,1.95,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,متوسط,الاتنين
+09/04/2019 13:49:45,Male,4,CS,"C Programming, TOC, Data Structures, Algorithms, Microprocessors, R",2.87,3.1,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 15:19:01,Male,4,Math,"TOC, Web, AI",3,2.91,ملتزم,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,حد تاني
+09/04/2019 15:34:22,Female,3,Stat,"TOC, R, Regression, Data Mining",2.81,2.38,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,اه,اه,متوسط,بابا
+09/04/2019 15:46:42,Male,4,CS,"C Programming, HCI, Algorithms, Game Design, Digital Libraries",3,2.7,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,اه,لا,لغتي التانية يا جدععع,بابا
+09/04/2019 17:53:22,Female,3,CS,"C Programming, TOC, Data Structures, IR, Graphics, Game Design, Database",3.2,3.4,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 17:57:59,Female,4,Stat,"Data Structures, AI, OS, Database, R, Regression, Data Mining, Operational research",2.8,2.6,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,لا,لغتي التانية يا جدععع,حد تاني
+09/04/2019 19:01:21,Male,4,Stat,"HCI, AI, Game Design, R, Data Mining",1.9,1.84,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,لا,اه,متوسط,الاتنين
+09/04/2019 22:01:29,Male,3,CS,"TOC, Web, Java 1, Java 2, OS, Database",3.5,3.6,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 22:08:22,Female,4,CS,Machine Learning,3.44,2.88,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,لا,اه,اه,متوسط,الاتنين
+09/04/2019 22:08:28,Male,3,Stat,"TOC, Data Structures, IR, Algorithms, Database, Data Mining",2.8,2.5,بحضر نص نص,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,اه,اه,لا,اه,لغتي التانية يا جدععع,ماما
+09/04/2019 22:08:32,Female,3,Stat,"TOC, IR, Algorithms, Database, Data Mining, Operational research",2.8,2.88,بحضر نص نص,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+09/04/2019 22:12:22,Male,2,CS,"C Programming, Data Structures, Java 1, Java 2, Graphics, Database",3,3,ملتزم,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+09/04/2019 22:17:50,Female,4,CS,"TOC, Data Structures, Java 1, Java 2, IR, Algorithms, OS, Graphics, Microprocessors, Regression",2.92,2.96,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,اه,لا,ضعيف,الاتنين
+09/04/2019 22:26:50,Female,3,CS,"TOC, IR, OS, Graphics",3.1,3.05,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 22:28:41,Male,2,CS,"HCI, Data Structures, Graphics, Machine Learning",3.48,3.06,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 22:45:07,Female,3,CS,"TOC, Java 1, IR, Algorithms, AI",3.01,3.1,بحضر نص نص,لا,لا,متوسط,مش متابع والله,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 23:00:23,Male,3,CS,"C Programming, TOC, Data Structures, Web, Java 2, Game Design",3.71,3.53,ملتزم,ايوه,لا,ضعيف,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,لا,متوسط,الاتنين
+09/04/2019 23:04:47,Male,2,CS,"C Programming, TOC, Web, Java 1, Java 2, Graphics",3.02,3.03,ملتزم,ايوه,لا,متوسط,مش متابع والله,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+09/04/2019 23:15:21,Female,3,CS,"TOC, HCI, Data Structures, Java 1, IR, Algorithms, OS, Graphics, Testing",3.5,3.39,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,ضعيف,الاتنين
+09/04/2019 23:19:44,Male,3,CS,"Data Structures, Java 2, IR, Algorithms, Database, Machine Learning",3.33,3.22,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+09/04/2019 23:57:50,Male,3,CS,"C Programming, Data Structures, Web, Java 1, Java 2, Game Design",3.45,2.45,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,متوسط,الاتنين
+10/04/2019 01:36:17,Male,4,CS,"C Programming, Data Structures, Java 2, IR, Algorithms, Microprocessors, Regression",3.44,3.55,ملتزم,لا,لا,متوسط,مش متابع والله,لا,لا,لا,اه,لغتي التانية يا جدععع,الاتنين
+10/04/2019 08:22:22,Female,4,CS,"C Programming, TOC, Data Structures, Database, Microprocessors, Testing",3.6,3.6,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,ماما
+10/04/2019 12:36:15,Female,3,CS,"TOC, Web, IR, Algorithms, Graphics, Database",3.5,3.33,ملتزم,لا,لا,متوسط,مش متابع والله,لا,لا,لا,اه,متوسط,ماما
+10/04/2019 13:18:43,Female,4,CS,"TOC, Data Structures, Algorithms, Microprocessors",3.57,3.03,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,لا,متوسط,الاتنين
+10/04/2019 15:05:33,Male,2,CS,"C Programming, Data Structures, IR, Machine Learning, Regression, Data Mining",2.75,2.9,بحضر نص نص,ايوه,لا,ضعيف,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,ماما
+11/04/2019 09:22:11,Female,2,Math,"C Programming, Data Structures, Java 1",2,1.9,ملتزم,ايوه,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,لا,ضعيف,الاتنين
+11/04/2019 17:50:35,Male,3,Stat,"Data Structures, Java 1, Java 2, AI, Graphics, Data Mining, Operational research",2.4,2.04,بحضر نص نص,لا,ايوه,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,متوسط,الاتنين
+12/04/2019 07:12:19,Female,4,CS,"TOC, Data Structures, Algorithms, OS, Microprocessors",3,3.5,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,ماما
+12/04/2019 10:28:28,Female,3,CS,"C Programming, TOC, HCI, Data Structures, Java 1, Java 2, IR, Algorithms, AI, OS, Graphics, Game Design, Database, Stat101, Stat201, Operational research",3.44,2.98,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,اه,لا,اه,لغتي التانية يا جدععع,الاتنين
+12/04/2019 21:38:59,Male,4,CS,"AI, Game Design, Machine Learning, R, Data Mining",3.1,2.83,ملتزم,لا,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,لغتي التانية يا جدععع,بابا
+15/04/2019 14:50:02,Female,3,CS,"C Programming, Data Structures, Java 1, Game Design",2.7,2.8,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,لا,اه,متوسط,الاتنين
+18/04/2019 06:26:00,Female,4,CS,"TOC, HCI, Data Structures, Web, Java 1, Java 2, IR, Algorithms, AI, OS, Graphics, Game Design, Database, R, Regression, Data Mining, Operational research",3.4,2.88,ملتزم,ايوه,لا,متوسط,اه، باخد منها محاضرات أحيانًا,لا,لا,اه,اه,متوسط,الاتنين
